@@ -24,7 +24,7 @@
 
     <div>
         <label for="sujet">Quel est le sujet de votre message ?</label>
-        <select name="sujet" id="sujet" required>
+        <select name="user_subject" id="user_subject" required>
             <option value="" disabled selected hidden>Choisissez le sujet de votre message</option>
             <option value="probleme-compte">Problème avec mon compte</option>
             <option value="question-produit">Question à propos d’un produit</option>
